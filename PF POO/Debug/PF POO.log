@@ -1,0 +1,152 @@
+﻿  Main.cpp
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\VectorRR.h(47,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\VectorRR.h(53,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\VectorRR.h(55,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\VectorRR.h(56,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\VectorRR.h(61,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\VectorRR.h(63,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\VectorRR.h(64,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\VectorRR.h(69,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\VectorRR.h(71,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\VectorRR.h(72,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\VectorRR.h(167,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\VectorRR.h(177,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Geometrias.h(43,109): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Geometrias.h(45,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Geometrias.h(46,109): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Geometrias.h(49,104): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Geometrias.h(51,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Geometrias.h(52,104): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Geometrias.h(200,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Geometrias.h(201,63): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Geometrias.h(202,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Imagenes.h(61,27): warning C4101: 'e': unreferenced local variable
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Imagenes.h(80,28): warning C4101: 'e': unreferenced local variable
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\SkyDome.h(46,7): warning C4101: 'indice': unreferenced local variable
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Terrain.h(72,7): warning C4101: 'indice': unreferenced local variable
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Water.h(59,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(17,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(19,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(23,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(34,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(35,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(61,53): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(61,39): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(61,25): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(64,1): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(65,1): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(69,59): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(69,43): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(69,22): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(72,59): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(72,43): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(72,22): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(75,52): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(75,39): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(75,22): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(78,52): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(78,39): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(78,22): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(154,46): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(154,41): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(154,36): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(177,56): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(177,41): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(177,26): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(185,59): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(185,43): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(185,22): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(188,59): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(188,43): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(188,22): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(191,52): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(191,39): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(191,22): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(194,52): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(194,39): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Billboard.h(194,22): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Camera.h(30,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Camera.h(73,13): warning C4244: '=': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Camera.h(74,13): warning C4244: '=': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Camera.h(78,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Camera.h(81,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Camera.h(84,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Camera.h(87,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Camera.h(100,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Camera.h(106,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Object.h(21,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Object.h(22,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Object.h(31,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Object.h(40,135): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Object.h(40,115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Structure.h(13,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Structure.h(13,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Structure.h(13,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Structure.h(21,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Structure.h(30,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Structure.h(36,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\GameManagerC.h(48,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\GameManagerC.h(109,1): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\GameManagerC.h(110,1): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\GameManagerC.h(111,1): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\GameManagerC.h(122,1): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\GameManagerC.h(123,1): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\GameManagerC.h(124,1): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\GameManagerC.h(129,1): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\GameManagerC.h(130,1): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\GameManagerC.h(131,1): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\GameManagerC.h(139,1): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\GameManagerC.h(140,1): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\GameManagerC.h(141,1): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\GameManagerC.h(271,15): warning C4244: 'initializing': conversion from 'GLdouble' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\GameManagerC.h(274,15): warning C4244: 'initializing': conversion from 'GLdouble' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\AnimatedObject.h(155,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(82,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(85,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(88,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(91,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(94,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(97,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(100,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(103,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(106,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(109,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(112,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(115,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(118,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(121,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(124,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(127,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(130,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(133,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(214,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(256,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(334,99): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(334,69): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(334,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(337,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(344,100): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(344,70): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(344,43): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(367,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(367,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(367,61): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(367,57): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(367,38): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(375,49): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(375,45): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(375,41): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(480,80): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(480,58): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(480,34): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Scene.h(481,13): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Main.cpp(129,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Main.cpp(206,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Main.cpp(245,67): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Main.cpp(245,54): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Main.cpp(247,68): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Main.cpp(247,55): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Main.cpp(250,133): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Main.cpp(250,117): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+C:\Users\edson\Desktop\Proyecto-POO\PF POO\Main.cpp(417,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PF POO.vcxproj -> C:\Users\edson\Desktop\Proyecto-POO\Debug\PF POO.exe
